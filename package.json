@@ -1,0 +1,24 @@
+{
+  "name": "asg-one",
+  "version": "1.0.0",
+  "description": "assignment one",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nivinjohnson/asg-one.git"
+  },
+  "author": "Nivin Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nivinjohnson/asg-one/issues"
+  },
+  "homepage": "https://github.com/nivinjohnson/asg-one#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
